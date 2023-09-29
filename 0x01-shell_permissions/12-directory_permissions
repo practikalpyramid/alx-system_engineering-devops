@@ -1,3 +1,2 @@
 #!/bin/bash
-mrkdir -m 751 my_dir
-
+mrkdir -m 751 my_dir .
